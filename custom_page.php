@@ -7,7 +7,7 @@ get_header(); ?>
 
 
 
-<!--HTML - Typewriter effekt-->
+<!--HTML - Typewriter effekt fra Codepen-->
 
 	<h1 class="custom-js">Learn Illustrator 
 	  	<span
