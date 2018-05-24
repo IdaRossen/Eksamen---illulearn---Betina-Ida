@@ -7,7 +7,7 @@ get_header(); ?>
 
 
 
-<!--HTML - Typewriter effekt fra Codepen-->
+<!--HTML - Typewriter effekt fra Codepen https://codepen.io/CheeseTurtle/pen/jzdgI -->
 
 	<h1 class="custom-js">Learn Illustrator 
 	  	<span
